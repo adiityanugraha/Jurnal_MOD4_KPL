@@ -1,0 +1,14 @@
+D:\adit\modul4_103022300063\bin\Debug\net8.0\modul4_103022300063.exe
+D:\adit\modul4_103022300063\bin\Debug\net8.0\modul4_103022300063.deps.json
+D:\adit\modul4_103022300063\bin\Debug\net8.0\modul4_103022300063.runtimeconfig.json
+D:\adit\modul4_103022300063\bin\Debug\net8.0\modul4_103022300063.dll
+D:\adit\modul4_103022300063\bin\Debug\net8.0\modul4_103022300063.pdb
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.GeneratedMSBuildEditorConfig.editorconfig
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.AssemblyInfoInputs.cache
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.AssemblyInfo.cs
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.csproj.CoreCompileInputs.cache
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.dll
+D:\adit\modul4_103022300063\obj\Debug\net8.0\refint\modul4_103022300063.dll
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.pdb
+D:\adit\modul4_103022300063\obj\Debug\net8.0\modul4_103022300063.genruntimeconfig.cache
+D:\adit\modul4_103022300063\obj\Debug\net8.0\ref\modul4_103022300063.dll
